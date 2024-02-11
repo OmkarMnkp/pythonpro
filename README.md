@@ -5,13 +5,21 @@ This is a calorie tracking application built with Python and Tkinter GUI framewo
 FEATURES
 
 Calculate BMI: Users can calculate their Body Mass Index (BMI) by entering their height and weight.
+
 Total Calorie Burn: Users can track their total calorie burn per day.
+
 Age Category: Users can select their age category (child, young, adult, old).
+
 Calorie Intake: Users can track their total calorie intake for the day, categorized into carbs, proteins, and fats.
+
 Graphs: Users can view graphs that visualize their consumed and remaining calories.
+
 Exercise Selection: Users can select exercises by clicking buttons, which will be added to their daily exercise routine.
+
 YouTube Links: Users can access YouTube links for exercise tutorials and guidance.
+
 Water Tracker:user can input goal and current intkar and compare them.
+
 Report Generation: At the end, users can generate a report by entering their name, age, consumed calories, target, and BMI. The report can be downloaded in PDF format.
 
 PREREQUISITES
