@@ -1,4 +1,5 @@
 Python Tkinter Calorie App
+
 This is a calorie tracking application built with Python and Tkinter GUI framework. It allows users to calculate their BMI, track their daily calorie intake and burn, select their age category, view graphs of consumed and remaining calories, select exercises through buttons, track users daily water intake,and generate a report with details such as name, age, consumed calories, target, and BMI. The generated report can be downloaded in PDF format.
 
 Features
