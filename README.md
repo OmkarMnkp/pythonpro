@@ -25,5 +25,5 @@ reportlab library
 letter library
 os module
 
-Acknowledgements
+ACKNOLEDGEMENTS
 This application was developed by [OMKAR MANKAPE] . It utilizes various open-source libraries and resources, including Tkinter, matplotlib, and fpdf. mail [omkarmankape4065@gmail.com]
