@@ -15,6 +15,7 @@ Water Tracker:user can input goal and current intkar and compare them.
 Report Generation: At the end, users can generate a report by entering their name, age, consumed calories, target, and BMI. The report can be downloaded in PDF format.
 
 PREREQUISITES
+
 Python (version 3.x)
 Tkinter library
 matplotlib library
@@ -26,4 +27,5 @@ letter library
 os module
 
 ACKNOLEDGEMENTS
+
 This application was developed by [OMKAR MANKAPE] . It utilizes various open-source libraries and resources, including Tkinter, matplotlib, and fpdf. mail [omkarmankape4065@gmail.com]
